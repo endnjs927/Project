@@ -106,6 +106,7 @@ public class Cinema {
     {
         return earnings;
     }
+    //random change
 
     public void showTheater(int theaterNumber)
     {
